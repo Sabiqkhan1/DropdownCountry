@@ -6,6 +6,9 @@
  <strong> npm i </strong> <br> <br>
     (or) <br> <br>
  <strong> npm install </strong>
+ 
+ // api sauce 
+ <strong> npm i apisauce --save </strong>
   
   
   // To start your server
